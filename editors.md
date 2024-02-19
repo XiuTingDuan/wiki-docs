@@ -10,7 +10,7 @@ dateCreated: 2019-05-22T03:11:37.479Z
 
 When creating a page, you can use the editor of your choice. Some users prefer to write content in Markdown while others might prefer a more visual editor.
 
-# List of  Editors
+# 支持的编辑器
 
 - [AsciiDoc *Plain Text Formatting*](/editors/asciidoc) 
 - [Code *Raw HTML*](/editors/code)
