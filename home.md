@@ -19,7 +19,7 @@ Wiki.js is quick and easy to install. You should be up and running in no time.
 - [Installation Guide *Detailed installation instructions for all platforms.*](/install)
 {.links-list}
 
-# User Guide
+# 用户指南
 
 - [The Basics *New to Wiki.js? Learn how to use it and create your first page.*](/guide/intro)
 - [Folder Structure & Tags *Learn how to categorize your pages for an easier browsing experience.*](/guide/structure)
@@ -28,7 +28,7 @@ Wiki.js is quick and easy to install. You should be up and running in no time.
 - [Using Assets *How to upload and manage assets such as images and documents.*](/guide/assets)
 {.links-list}
 
-# Administration
+# 管理
 
 - [:globe_with_meridians: Locales *Display the wiki in a different language or enable multilingual capabilities.*](/locales)
 - [:busts_in_silhouette: User Groups *Permissions and access rights.*](/groups)
@@ -36,7 +36,7 @@ Wiki.js is quick and easy to install. You should be up and running in no time.
 - [:wrench: Troubleshooting *Solutions to common issues.*](/troubleshooting)
 {.links-list}
 
-## Modules
+## 模块
 Modules greatly expand the capabilities of your wiki.
 - [:lock: Authentication *Configure how users can login and register to your wiki.*](/auth)
 - [:speech_balloon: Comments *Add discussion capabilities to your wiki.*](/comments)
@@ -46,7 +46,7 @@ Modules greatly expand the capabilities of your wiki.
 - [:floppy_disk: Storage *Backup or sync the content of your wiki with external storage services.*](/storage)
 {.links-list}
 
-# Developers
+# 开发
 
 Wiki.js is fully extensible for maximum customization.
 
@@ -55,11 +55,11 @@ Wiki.js is fully extensible for maximum customization.
 - [:art: Themes *Learn how to create your own theme.*](/dev/themes)
 {.links-list}
 
-# Localization
+# 本地化
 - [:globe_with_meridians: Translations *Contribute a new language or test new keys*](/dev/translations)
 {.links-list}
 
-# Contribute
+# 捐助
 - [:question: Ask a Question *We're here to help.*](https://github.com/Requarks/wiki/discussions)
 - [:fire: Report a Bug *Help us squash those pesky bugs.*](https://github.com/Requarks/wiki/discussions)
 - [:bulb: Suggest a New Feature *We need your ideas!*](https://requests.requarks.io/wiki)
